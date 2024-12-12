@@ -1,4 +1,4 @@
-![Logo do Projeto](assets/logo (2).png)
+![Logo do Projeto](assets/logo.png)
 
 # Transparência Já - Sistema de Gestão Social Integrada
 
