@@ -330,7 +330,7 @@ O **Transparência Já** é uma solução escalável e sustentável, que se alin
 
 ---
 
-### **Acesso à Documentação Interativa**
+### **Acesso à Documentação**
 
 A documentação pode ser acessada diretamente no navegador através da seguinte rota:
    ```bash
