@@ -1,7 +1,6 @@
-# transparencia-ja-backend
-Backend da aplicação Transparência Já
 
-## Transparência Já - Sistema de Gestão Social Integrada
+
+# Transparência Já - Sistema de Gestão Social Integrada
 
 ### **Sobre a API**
 
